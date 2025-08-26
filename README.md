@@ -1,4 +1,3 @@
-# kodnerds-junior-frontend-starter-task
 # Kodnerds Junior Dev Challenge – Task 1 (Frontend)
 
 Welcome to the **Kodnerds Junior Dev Challenge – Frontend Track**.  
