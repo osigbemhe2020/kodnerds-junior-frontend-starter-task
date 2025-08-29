@@ -18,7 +18,7 @@ You may also see any lint errors in the console.
 the only features i added different from the ui is i changed the images because i did not have them 
 and also the pages in the pagination are only five due to limited data
 
-#AI used
+# AI used
 VScode co-pilot is so used to using it that i dont know everywhere i used it but i used it alot in the pagination logic
 
 # challenges faced 
